@@ -6,4 +6,6 @@ Until now its supports the following:
 - It's able to draw different 2D Sprites in different formats.
 - There are different entity types like mobs or a player class
 
+This will be my personal java game "framework" so i can create java games fast on this base.
+
 Working ... 
